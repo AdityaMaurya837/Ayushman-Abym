@@ -1,0 +1,34 @@
+.navbar {
+    background-color: #5052a3;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  
+  
+  .logo img{
+    width: 120px;
+    position: relative;
+    top: 11px;
+  }
+  
+  .menu {
+    background-color: #5052a3;
+    color: #fff;
+  }
+  
+  .menu .ant-menu-item {
+    color: #fff;
+    padding: 0 15px;
+    text-transform: uppercase;
+  }
+  
+  .menu .ant-menu-item:hover {
+    color: #1890ff;
+  }
+  
+  .menu .ant-menu-item-selected {
+    color: #1890ff;
+  }
+  

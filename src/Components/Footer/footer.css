@@ -1,0 +1,21 @@
+.footer{
+background: #373b46;
+padding: 30px;
+color: #fff;
+}
+
+.icon img{
+width: 20px;
+}
+
+.icon-content{
+display: flex;
+text-align: left;
+}
+.icon-content p{
+margin-left: 10px;
+}
+
+.footer p{
+text-align: left;
+}  

@@ -1,0 +1,151 @@
+.mt {
+    margin-top: 3rem;
+}
+
+.content-about {
+    padding: 30px;
+    background: url(../img/contentbg1.png);
+}
+
+.content-about-second {
+    margin-top: 2rem;
+    padding: 30px;
+}
+
+.content-about h2,
+.content-about-second h2 {
+    color: #5052a3;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.content-about p .content-about-second p {
+    font-size: 1rem;
+    color: #211f1f;
+    line-height: 24px;
+}
+
+.image-container-content {
+    display: flex;
+    justify-content: center;
+}
+
+.image-content {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.content-third {
+    padding: 30px;
+    background: url(../img/contentBg.png);
+}
+
+.content-third h2 {
+    color: #5052a3;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.content-third p {
+    font-size: 1rem;
+    color: #211f1f;
+    line-height: 24px;
+}
+
+.content-five {
+    margin: 0;
+    width: 100%;
+    height: 50vh;
+    background-image: url(../img/contentbg1.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.content-five h1 {
+    text-align: center;
+    color: #5052a3;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.content-five .content-five-row .all-content-five {
+    padding: 0 50px 0 50px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-five .content-five-row .all-content-five p {
+    font-size: 1rem;
+    color: #211f1f;
+    font-weight: 700;
+}
+
+.content-five-circle {
+    margin: 10px;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #fff;
+    border: 1px solid #666;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-five-circle img {
+    width: 30px;
+}
+
+.national-health {
+    display: flex;
+}
+
+.bharat-image-content {
+    width: 200px;
+}
+
+.line {
+    width: 2px;
+    height: 220px;
+    background: #666;
+}
+
+.line-hight {
+    margin-top: -2rem;
+    line-height: 2rem;
+}
+
+.font-six {
+    font-weight: 700;
+    color: #666;
+}
+
+.download-app {
+    width: 180px;
+}
+
+.national-health-image-content {
+    width: 350px;
+}
+
+.image-content-six {
+    width: 300px;
+}
+
+.content-six-heading {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-six-heading p {
+    text-align: center;
+}
+
+.image-content-last {
+    width: 300px;
+}

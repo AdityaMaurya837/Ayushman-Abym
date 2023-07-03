@@ -1,0 +1,50 @@
+.home-row {
+    margin: 0;
+    background-image: url(../img/image31.png);
+}
+
+/* @media screen and (max-width: 768px) {
+.home {
+background-size: 100% auto;
+}
+} */
+
+
+.home-content {
+    padding: 30px;
+    text-align: left;
+    color: #000;
+}
+
+.home-content h2 {
+    text-transform: uppercase;
+    color: #5052a3;
+    font-size: 3rem;
+    font-weight: 500;
+}
+
+.home-content h3 {
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.home-gov-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-gov-img img {
+    width: 100px;
+    margin: 10px;
+}
+
+.home-img {
+    padding: 30px;
+    text-align: center;
+}
+
+.home-img img {
+    width: 100%;
+    max-width: 400px;
+}
